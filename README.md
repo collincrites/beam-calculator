@@ -2,6 +2,10 @@
 
 A Python GUI application that helps select structural steel beams based on loading conditions and span requirements.
 
+## Screenshot
+
+![Beam Calculator](screenshot.png)
+
 ## Overview
 
 This program calculates the required bending moment for a beam and searches a steel beam database to recommend beam sizes that meet the required capacity.
